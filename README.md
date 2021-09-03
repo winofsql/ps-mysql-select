@@ -3,7 +3,7 @@ PowerShell で MySQL を読み出す
 
 ## add settings.json ( Code Runner )
 ```javascript
-    "code-runner.showRunIconInEditorTitleMenu": false,
+    "code-runner.showRunIconInEditorTitleMenu": false
 ```
 ## 実行結果
 ```
